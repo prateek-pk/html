@@ -15,3 +15,8 @@ a{
 .welcome{
     text-align: centre;
 }
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
